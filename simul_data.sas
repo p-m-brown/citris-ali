@@ -35,7 +35,7 @@ Validation:
              var2_tp=NORM, var2_co=40, var2_df=-5, var2_sd=45, /*crp (ug/mL) 168hrs*/
              var3_tp=NORM, var3_co=12, var3_df=-2, var3_sd=5, /*thrombomodulin (ng/mL) 168hrs*/
              var4_tp=SURV, var4_co=0.75, var4_df=0.02, var4_sd=, /*mortality at d28*/
-             var5_tp=, var5_co=, var5_df=, var5_sd=,        /*could add ventilator freed days*/
+             var5_tp=, var5_co=, var5_df=, var5_sd=,       
              corr12=0.2, corr13=0.2, corr14=0.05, corr15=0,           /*initial working correlations */
                          corr23=0.2, corr24=0.05, corr25=0,
                                      corr34=0.05, corr35=0,
