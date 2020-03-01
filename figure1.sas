@@ -31,7 +31,7 @@ quit;
 proc format;
   value $compos_f
     'CO'='Decision rule'
-    'COmiss'='Decision rule (assumes biomarker data missing if patient dies)'
+    'COmiss'='Decision rule (assuming missing data if patient dies)'
     'GR'='Global rank';
 run;
 
