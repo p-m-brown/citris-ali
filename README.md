@@ -5,3 +5,6 @@ Simulations used to estimate power for global rank composite versus decision rul
 ```math
 a^2+b^2=c^2
 ```
+
+effect sizes ....
+using these initial correlations:
