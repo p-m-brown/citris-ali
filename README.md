@@ -14,6 +14,9 @@ using these initial correlations:
 
 
 
+$$
+\lambda_{i}(t;\boldsymbol{x_{i}})=\theta_{i}\lambda_{0}(t)exp(\boldsymbol{x_{i}}\boldsymbol{\beta})
+$$
 
 
 
