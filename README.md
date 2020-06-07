@@ -8,3 +8,19 @@ Simulations used to estimate power for global rank composite versus decision rul
 
 effect sizes ....
 using these initial correlations:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\s_{i}=\theta_{i}\lambda_{0}(t)exp(\boldsymbol{x_{i}}\boldsymbol{\beta})
+\frac{n!}{k!(n-k)!}
