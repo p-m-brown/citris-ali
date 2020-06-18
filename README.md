@@ -8,7 +8,7 @@ The following equation describes the calculation.
 a^2+b^2=c^2
 ```
 
-The global rank composite is promoted in the medical literature. For example, see:<br>
+The global rank composite is promoted in the medical literature. For example, see:
 - Califf 1990:  [Left Ventricular Ejection Fraction May Not Be Useful as an End Point of Thrombolytic Therapy Comparative Trials](https://pubmed.ncbi.nlm.nih.gov/2225381/) <br>
 - Felker & Maisel 2010: [A Global Rank End Point for Clinical Trials in Acute Heart Failure](https://www.ahajournals.org/doi/full/10.1161/circheartfailure.109.926030) <br>
 - Packer 2016: [Development and Evolution of a Hierarchical Clinical Composite End Point for the Evaluation of Drugs and Devices for Acute and Chronic Heart Failure](https://www.ahajournals.org/doi/10.1161/circulationaha.116.023538)
