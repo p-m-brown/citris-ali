@@ -19,11 +19,11 @@ We must also specify the order of outcomes for the hierarchy and cut-offs defini
 - Ordering of outcomes and cut-offs can be found in derive_GR.sas
 
 For our simulations we used moderate effect sizes:
-- Control, base rate: 
-    -/*sofa score 96hrs */ 
-             var2_tp=NORM, var2_co=40, var2_df=-5, var2_sd=45, /*crp (ug/mL) 168hrs*/
-             var3_tp=NORM, var3_co=12, var3_df=-2, var3_sd=5, /*thrombomodulin (ng/mL) 168hrs*/
-             var4_tp=SURV, var4_co=0.75, var4_df=0.02, var4_sd=, /*mortality at d28*/
+- Control, base rate: <br>
+_SOFA score 96hrs:_ <br>
+_CRP (ug/mL) 168hrs:_ <br>
+_Thrombomodulin (ng/mL) 168hrs:_ <br>
+_Mortality at d28:_ <br>
  
 - Intervention, change:
 - Initial working correlations: 
