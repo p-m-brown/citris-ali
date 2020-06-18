@@ -1,5 +1,5 @@
 /******************************************************************************
-Author, date: Paul Brown, feb2020
+Author, date: pmbrown, feb2020
 Macro name:   simul_data, 
               iterat_simul (run simul_data iteratively in order to
               obtain the desired correlations between the outcomes), 
