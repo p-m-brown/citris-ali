@@ -16,18 +16,20 @@ The global rank composite is promoted in the medical literature. For example, se
 Input required for each outcome includes a base rate, effect due to intervention, and correlations among outcomes (although from our experience, correlations have an unimportant effect on power estimates).
 We must also specify the order of outcomes for the hierarchy and cut-offs defining when to move to the next outcome (i.e. according to "failure").
 
-- Effect sizes and correlations can be found in simul_data.sas
-- Ordering of outcomes and cut-offs can be found in derive_GR.sas
+- Effect sizes and initial working correlations can be found in [simul_data.sas](https://gitlab.com/pmbrown/citris-ali/-/blob/master/simul_data.sas)
+- Ordering of outcomes and cut-offs can be found in [derive_GR.sas](https://gitlab.com/pmbrown/citris-ali/-/blob/master/derive_GR.sas)
 
 For our simulations we used moderate effect sizes:
 - Control, base rate: <br>
 _SOFA score 96hrs:_ <br>
 _CRP (ug/mL) 168hrs:_ <br>
 _Thrombomodulin (ng/mL) 168hrs:_ <br>
-_Mortality at d28:_ <br>
- 
+_Mortality at d28:_ 
 - Intervention, change:
-- Initial working correlations: 
+- _SOFA score 96hrs:_ <br>
+_CRP (ug/mL) 168hrs:_ <br>
+_Thrombomodulin (ng/mL) 168hrs:_ <br>
+_Mortality at d28:_ 
 
 These guesstimates are based on:
 - VITAMINS: [Effect of Vitamin C, Hydrocortisone, and Thiamine vs Hydrocortisone Alone on Time Alive and Free of Vasopressor Support Among Patients With Septic Shock](https://jamanetwork.com/journals/jama/fullarticle/2759414) <br>
