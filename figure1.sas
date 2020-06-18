@@ -1,5 +1,5 @@
 /******************************************************************************
-Author, date: Paul Brown, feb2020
+Author, date: pmbrown, feb2020
 Program name: figure1.sas
 Description:  create figure showing power estimates against assumed sample size
               (developed in SAS 9.4)
