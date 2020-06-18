@@ -3,7 +3,7 @@ Simulations used to estimate power for global rank composite versus decision rul
 
 **The global rank** <br>
 Global Rank is a generic term encompassing a number of composites. The intention is to assign every patient a rank among the other patients that summarises their response.
-The following equation describes the calculation.<br>
+The following equation describes the calculation.
 ```math
 a^2+b^2=c^2
 ```
@@ -26,7 +26,7 @@ _CRP (ug/mL) 168hrs:_ <br>
 _Thrombomodulin (ng/mL) 168hrs:_ <br>
 _Mortality at d28:_ 
 - Intervention, change:
-- _SOFA score 96hrs:_ <br>
+_SOFA score 96hrs:_ <br>
 _CRP (ug/mL) 168hrs:_ <br>
 _Thrombomodulin (ng/mL) 168hrs:_ <br>
 _Mortality at d28:_ 
