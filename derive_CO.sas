@@ -1,5 +1,5 @@
 /******************************************************************************
-Author, date: Paul Brown, feb2020
+Author, date: pmbrown, feb2020
 Macro name:   derive_CO
 Description:  implement decision rule as per CITRIS-ALI trial
 Notes:        developed in SAS 9.4
