@@ -10,7 +10,7 @@ The following equation describes the calculation.
 The global rank composite is promoted in the medical literature. For example, see:<br>
 - Califf 1990:  [Left Ventricular Ejection Fraction May Not Be Useful as an End Point of Thrombolytic Therapy Comparative Trials](https://pubmed.ncbi.nlm.nih.gov/2225381/) <br>
 - Felker & Maisel 2010: [A Global Rank End Point for Clinical Trials in Acute Heart Failure](https://www.ahajournals.org/doi/full/10.1161/circheartfailure.109.926030) <br>
-- Packer 2016 [Development and Evolution of a Hierarchical Clinical Composite End Point for the Evaluation of Drugs and Devices for Acute and Chronic Heart Failure](https://www.ahajournals.org/doi/10.1161/circulationaha.116.023538)
+- Packer 2016: [Development and Evolution of a Hierarchical Clinical Composite End Point for the Evaluation of Drugs and Devices for Acute and Chronic Heart Failure](https://www.ahajournals.org/doi/10.1161/circulationaha.116.023538)
 
 Input required for each outcome includes a base rate, effect due to intervention, and correlations among outcomes (although from our experience, correlations have an unimportant effect on power estimates).
 We must also specify the order of outcomes for the hierarchy and cut-offs defining when to move to the next outcome (i.e. according to "failure").
@@ -19,8 +19,13 @@ We must also specify the order of outcomes for the hierarchy and cut-offs defini
 - Ordering of outcomes and cut-offs can be found in derive_GR.sas
 
 For our simulations we used moderate effect sizes:
-- Control: 
-- Intervention:
+- Control, base rate: 
+    -/*sofa score 96hrs */ 
+             var2_tp=NORM, var2_co=40, var2_df=-5, var2_sd=45, /*crp (ug/mL) 168hrs*/
+             var3_tp=NORM, var3_co=12, var3_df=-2, var3_sd=5, /*thrombomodulin (ng/mL) 168hrs*/
+             var4_tp=SURV, var4_co=0.75, var4_df=0.02, var4_sd=, /*mortality at d28*/
+ 
+- Intervention, change:
 - Initial working correlations: 
 
 These guesstimates are based on:
