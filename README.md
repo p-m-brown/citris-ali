@@ -5,7 +5,7 @@ Simulations used to estimate power for global rank composite versus decision rul
 Global Rank is a generic term encompassing a number of composites. The intention is to assign every patient a rank among the other patients that summarises their response.
 The following equation describes the calculation. <br>
 <img src="https://i.postimg.cc/pT8jFs7q/eqn.png" width="400"> <br>
-where $`\n`$ is the total sample size, $\G$ is the total number of outcomes, $\delta_ij=1$ if patient ifailed on outcome jand 0 otherwise, and rijis the rank for patient ion outcome j(rank 1 being the worst response and nbeing the best). <br>
+where _n_ is the total sample size, _G_ is the total number of outcomes, _δij=1_ if patient ifailed on outcome jand 0 otherwise, and rijis the rank for patient ion outcome j(rank 1 being the worst response and nbeing the best). <br>
 
 The global rank composite is promoted in the medical literature. For example, see:
 - Califf 1990:  [Left Ventricular Ejection Fraction May Not Be Useful as an End Point of Thrombolytic Therapy Comparative Trials](https://pubmed.ncbi.nlm.nih.gov/2225381/) <br>
