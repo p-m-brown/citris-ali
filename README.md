@@ -25,7 +25,7 @@ _SOFA score 96hrs:_ <br>
 _CRP (ug/mL) 168hrs:_ <br>
 _Thrombomodulin (ng/mL) 168hrs:_ <br>
 _Mortality at d28:_ 
-- Intervention, change:
+- Intervention, change: <br>
 _SOFA score 96hrs:_ <br>
 _CRP (ug/mL) 168hrs:_ <br>
 _Thrombomodulin (ng/mL) 168hrs:_ <br>
