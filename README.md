@@ -20,9 +20,35 @@ next outcome in the hierarchy (i.e. cut-offs defining "failure").
 - Effect sizes and correlations can be found in simul_data.sas
 - Ordering of outcomes and cut-offs can be found in derive_GR.sas
 
-For our simulations we used:
-- control: 
-- intervention:
-- initial working correlations: 
-these guesstimates are based on ... but they can be changed to anything that is deemed plausible
-and cut offs can be changed to evaluate the effect this has on power estimates
+For our simulations we used moderate effect sizes:
+- Control: 
+- Intervention:
+- Initial working correlations: 
+
+These guesstimates are based on:
+- VITAMINS: "[Effect of Vitamin C, Hydrocortisone, and Thiamine vs Hydrocortisone Alone on Time Alive and Free of Vasopressor Support Among Patients With Septic Shock](https://jamanetwork.com/journals/jama/fullarticle/2759414)" <br>
+- CITRIS-ALI: "[Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure](https://pubmed.ncbi.nlm.nih.gov/31573637/)"
+
+These assumed effect estimates, cut-offs etc. can be changed any plausible value to evaluate the effect this has on the power estimates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
