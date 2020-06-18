@@ -21,15 +21,15 @@ We must also specify the order of outcomes for the hierarchy and cut-offs defini
 
 For our simulations we used moderate effect sizes:
 - Control, base rate: <br>
-_SOFA score 96hrs:_ <br>
-_CRP (ug/mL) 168hrs:_ <br>
-_Thrombomodulin (ng/mL) 168hrs:_ <br>
-_Mortality at d28:_ 
+_SOFA score at 96 hours:_ <br>
+_CRP (ug/mL) at 168 hours:_ <br>
+_Thrombomodulin (ng/mL) at 168 hours:_ <br>
+_Mortality at Day 28:_ 
 - Intervention, change: <br>
-_SOFA score 96hrs:_ <br>
-_CRP (ug/mL) 168hrs:_ <br>
-_Thrombomodulin (ng/mL) 168hrs:_ <br>
-_Mortality at d28:_ 
+_SOFA score at 96 hours:_ <br>
+_CRP (ug/mL) at 168 hours:_ <br>
+_Thrombomodulin (ng/mL) at 168 hours:_ <br>
+_Mortality at Day 28:_ 
 
 These guesstimates are based on:
 - VITAMINS: [Effect of Vitamin C, Hydrocortisone, and Thiamine vs Hydrocortisone Alone on Time Alive and Free of Vasopressor Support Among Patients With Septic Shock](https://jamanetwork.com/journals/jama/fullarticle/2759414) <br>
