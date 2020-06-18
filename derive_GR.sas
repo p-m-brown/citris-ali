@@ -1,5 +1,5 @@
 /******************************************************************************
-Author, date: Paul Brown, feb2020
+Author, date: pmbrown, feb2020
 Macro name:   derive_GR
 Description:  derive the global rank endpoint on simulated data of up to 5 outcomes. 
               (developed in SAS 9.4)
