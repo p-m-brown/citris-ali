@@ -33,7 +33,7 @@ These guesstimates are based on:
 - VITAMINS: [Effect of Vitamin C, Hydrocortisone, and Thiamine vs Hydrocortisone Alone on Time Alive and Free of Vasopressor Support Among Patients With Septic Shock](https://jamanetwork.com/journals/jama/fullarticle/2759414) <br>
 - CITRIS-ALI: [Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure](https://pubmed.ncbi.nlm.nih.gov/31573637/)
 
-The assumed effect estimates, cut-offs etc. can be modified to evaluate the effect this has on the power estimates.
+The assumed effect estimates, cut-offs etc. can be modified to evaluate the effect this has on the power estimates. For further information, see [Power and Sample Size Estimation for Composite Endpoints: Practical Implementation using Data Simulations](https://digitalcommons.wayne.edu/jmasm/vol16/iss2/12/)
 
 
 
