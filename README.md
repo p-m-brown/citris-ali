@@ -12,8 +12,7 @@ The global rank composite is promoted in the medical literature. For example, se
 - Felker & Maisel 2010: "[A Global Rank End Point for Clinical Trials in Acute Heart Failure](https://www.ahajournals.org/doi/full/10.1161/circheartfailure.109.926030)" <br>
 - Packer 2016 "[Development and Evolution of a Hierarchical Clinical Composite End Point for the Evaluation of Drugs and Devices for Acute and Chronic Heart Failure](https://www.ahajournals.org/doi/10.1161/circulationaha.116.023538)"
 
-Input required for each outcome includes a base rate, effect due to intervention, and correlations among outcomes;
-although from our experience, correlations have an unimportant effect on power estimates.
+Input required for each outcome includes a base rate, effect due to intervention, and correlations among outcomes (although from our experience, correlations have an unimportant effect on power estimates).
 We must also specify the order of outcomes for the hierarchy and cut-off's defining when to move to the 
 next outcome in the hierarchy (i.e. cut-offs defining "failure").
 
