@@ -4,7 +4,7 @@ Simulations used to estimate power for global rank composite versus decision rul
 **The global rank** <br>
 Global Rank is a generic term encompassing a number of composites. The intention is to assign every patient a rank among the other patients that summarises their response.
 The following equation describes the calculation. <br>
-[![eqn.png](https://i.postimg.cc/pT8jFs7q/eqn.png)=250x](https://postimg.cc/bDydX9qt)
+<img src="https://i.postimg.cc/pT8jFs7q/eqn.png" width="400">
 
 The global rank composite is promoted in the medical literature. For example, see:
 - Califf 1990:  [Left Ventricular Ejection Fraction May Not Be Useful as an End Point of Thrombolytic Therapy Comparative Trials](https://pubmed.ncbi.nlm.nih.gov/2225381/) <br>
