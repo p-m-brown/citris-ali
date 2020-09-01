@@ -20,7 +20,7 @@ Changes:
 options nodate nonumber nofmterr nomprint ; 
 
 *data libraries;
-libname der "T:\alle\sepsisforskning\pmb\vitC\der";
+libname der "...\vitC\der";
 
 *clear temp datasets;
 proc datasets lib=work kill memtype=data;
@@ -36,14 +36,14 @@ proc format;
 run;
 
 *define macros;
-%include 'T:\alle\sepsisforskning\pmb\vitC\NearestCorr.sas';
-%include 'T:\alle\sepsisforskning\pmb\vitC\simul_data.sas';
-%include 'T:\alle\sepsisforskning\pmb\vitC\derive_gr.sas';
+%include '...\vitC\NearestCorr.sas';
+%include '...\vitC\simul_data.sas';
+%include '...\vitC\derive_gr.sas';
 
 *save log for records;
-proc printto log='T:\alle\sepsisforskning\pmb\vitC\output\figure1.log' new ;
+proc printto log='...\vitC\output\figure1.log' new ;
 run;
-proc printto print='T:\alle\sepsisforskning\pmb\vitC\output\figure1.lst' new;
+proc printto print='...\vitC\output\figure1.lst' new;
 run;
 
 ********************************************************************;
@@ -79,7 +79,7 @@ data der.randsamp2;
 run;
 
 %derive_GR(indata=der.randsamp2,outdata=der.globrnk,outpval=der.gr_pval);
-%include 'T:\alle\sepsisforskning\pmb\vitC\derive_co.sas';
+%include '...\vitC\derive_co.sas';
 
 ********************************************************************;
 ***      estimate power              ***;
@@ -146,7 +146,7 @@ run;
 ***     create figure             ***;
 ********************************************************************;
 
-ods listing gpath="T:\alle\sepsisforskning\pmb\vitC\output";
+ods listing gpath="...\vitC\output";
 ods graphics on / imagefmt=tiff reset imagename="figure1" width=2500px 
 height=2000px outputfmt=tiff maxobs=2074738 antialiasmax=9800 ;
 ods html close;
