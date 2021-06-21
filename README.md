@@ -38,7 +38,7 @@ These guesstimates are based on:
 The assumed effect estimates, cut-offs etc. can be modified to evaluate the effect this has on the power estimates. For further information, see [Power and Sample Size Estimation for Composite Endpoints: Practical Implementation using Data Simulations](https://digitalcommons.wayne.edu/jmasm/vol16/iss2/12/)
 
 
-
+16jun2021, NOTE: there is likely a better way, now, to achieve the desired correlations when simulating the random variables: https://blogs.sas.com/content/iml/2021/06/14/simulate-iman-conover-transformation.html
 
 
 
