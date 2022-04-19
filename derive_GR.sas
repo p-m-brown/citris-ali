@@ -5,6 +5,7 @@ Description:  derive the global rank endpoint on simulated data of up to 5 outco
               (developed in SAS 9.4)
 Reference:    A Global Rank End Point for Clinical Trials in Acute Heart Failure, 
               Felker GM, Maisel AS, Circulation: Heart Failure, 2010
+Validation    Susanne Bruun on 19th April at 15:49. 
 ******************************************************************************/
 
 %macro derive_GR(indata=finalsamp,outdata=out_gr,outpval=pval_gr,

@@ -6,6 +6,7 @@ Notes:        developed in SAS 9.4
 Reference:    jama: Only if the smallest P value was less than .02, the
                   second smallest less than .03, and the largest less than .05
                   was simulation considered a success
+Validation	Susanne Bruun on 19th April 2022 at 15:43
 
 ******************************************************************************/
 
