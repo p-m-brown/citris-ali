@@ -1,0 +1,20 @@
+/******************************************************************************
+Project		citris-ali
+Program Name	checks.sas
+Description	'Validation' of Derive_CO
+Developed in	SAS 9.4
+Programmer	Susanne Bruun
+Date		20th April 2022
+
+******************************************************************************/
+
+****Preamble*****;
+
+proc datasets lib=work kill memtype=data;
+run;
+quit;
+
+***************;
+
+* some code validation....;
+
